@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "npx ts-node-dev src/index.ts"
+    "dev": "npx ts-node-dev src/index.ts --files"
   },
   "devDependencies": {
     "@types/node": "^14.0.23",
